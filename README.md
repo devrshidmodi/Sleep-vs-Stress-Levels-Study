@@ -1,1 +1,2 @@
 # Sleep-vs-Stress-Levels-Study
+This was an extensive study conducted in my high school, to determine the correlation, if one existed, between the number of hours slept and a student's stress levels. Data was collected confidentially using Google Forms, and was exported to an Excel file. The data was then analyzed using the Pandas library in Python, which formed the basis for conducting Chi-Squared hypothesis tests. In the end, a correlation was found between the number of hours slept and a student's stress levels.
